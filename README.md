@@ -2,9 +2,9 @@
  - Check users without password
  - Check password authentication is enable
  - Check open ports
-```bash
+```shell
 chmod -x scan_system.sh
 ```
-```bash
+```shell
 bash scan_system.sh --help
 ```
