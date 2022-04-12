@@ -6,5 +6,5 @@
 chmod -x scan_system.sh
 ```
 ```shell
-bash scan_system.sh --help
+./scan_system.sh --help
 ```
